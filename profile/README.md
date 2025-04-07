@@ -1,23 +1,18 @@
 # Welcome to DeDevs: Where Innovation Takes Root
 
-**Hai Future Innovators**, welcome to DeDevs, the ultimate launchpad for blockchain and machine learning engineers and enthusiasts. Consider this your official invitation to a community where decentralized technology meets AI innovation head-on.
+**Hai Innovators**, welcome to DeDevs, the ultimate launchpad for blockchain and machine learning engineers and enthusiasts. Consider this your official invitation to a community where decentralized technology meets AI innovation head-on.
 
 
-![[https://raw.githubusercontent.com/]](https://dedevs.club/images/og-image.png)
+<!---
+![[]](https://dedevs.club/images/og-image.png)
+--->
 
 ## What’s the Buzz About DeDevs?
 DeDevs isn’t just another online community; it’s a vibrant ecosystem crafted to empower you at the intersection of blockchain and AI.
 Think of it as your personal innovation hub, far from the noise of typical social media platforms. 
 Here, you’ll find a space dedicated to mastering development, forging meaningful connections, and building the future, one brilliant idea at a time.
 
-## Gear Up for an Unforgettable Journey
-- **Connect & Collaborate**: Network with fellow developers, share your wins (and learning moments), ask burning questions, and offer your expertise. This is where collaboration ignites groundbreaking solutions.
-- **Dive into Cutting-Edge Knowledge**: Access exclusive courses, workshops, and resources designed to elevate your skills. From AI Marketing Agency Mastery to the latest in decentralized tech, we’ve got your learning covered. Start here with our latest course #Step 0 | Getting Started on Creating an AI Agent.
-- **Experience Game-Changing Events**: Participate in live Q&A sessions with industry leaders, tackle thrilling coding challenges, and unlock opportunities you won’t find anywhere else.
+## Latest Course (free)
+[![[https://www.skool.com/devs/classroom/ea5c2c41?md=76607e57719046d691541192f5e91cb8)]](https://assets.skool.com/f/07a85d9eeecf4d8f856a85671e763ac1/78732e3dbbd04e49a984da368367a6142891cbf3f87b4421a564b35746cf9cea)](https://www.skool.com/devs/classroom/ea5c2c41?md=76607e57719046d691541192f5e91cb8)
 
-## Your Adventure Starts Now
-- **Introduce Yourself**: Head over to the [Networking Cafe in our Skool](https://skool.com/devs) and tell us about your passions, your projects, and what you’re hoping to achieve here. Let’s get to know the minds behind the innovation!
-- **Explore & Expand**: Jump into our treasure trove of courses and resources. Whether you’re looking to build autonomous marketing systems with AI agents or master the intricacies of blockchain, your next level-up awaits.
-- **Engage & Inspire**: Join the discussions, share your insights, and let your voice be heard. Remember, the DeDevs community thrives on collaboration and shared knowledge.
-  
 > We’re not just building a community; we’re shaping the future of decentralized and AI-powered technologies, together. So buckle up, get ready to explore, and let’s build something extraordinary!
